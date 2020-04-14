@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574123112 source:c:\users\marian y. larbi\desktop\c++ trial\super_market\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+
